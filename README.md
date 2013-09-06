@@ -1,0 +1,4 @@
+newsletters
+===========
+
+Mail Chimp Templates
